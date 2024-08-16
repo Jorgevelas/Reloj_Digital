@@ -1,12 +1,12 @@
-Reloj
+Reloj Digital
 Este proyecto consiste en un reloj, construido utilizando HTML, CSS y JavaScript. A continuación, se detallan los componentes principales del código y su funcionalidad.
 
 [![imagen-2024-08-16-091544412.png](https://i.postimg.cc/1RT4DSvz/imagen-2024-08-16-091544412.png)](https://postimg.cc/WtG2PBLR)
 
 Estructura del Proyecto
 Archivos Principales
-index.html: Este archivo contiene la estructura básica de la calculadora.
-style.css: Archivo de estilos que define la apariencia de la calculadora.
+index.html: Este archivo contiene la estructura básica del reloj.
+style.css: Archivo de estilos que define la apariencia de la del reloj.
 index.js: Script que maneja las funciones y inicializa el reloj.
 
 HTML:
@@ -27,4 +27,4 @@ El estilo CSS define la apariencia de los elementos de la página web.
 proporciona un estilo para el fondo de la pantalla
 
 JAVASCRIPT
-Este ejecuta funciones que permite el correcto funcionacmiento del reloj en la interfaz  y que se muestre las horas, minutos y segundos correctamente.basado en el horario colombiano.
+Este Script ejecuta funciones que permite el correcto funcionacmiento del reloj en la interfaz  y que se muestre las horas, minutos y segundos correctamente.basado en el horario colombiano.
