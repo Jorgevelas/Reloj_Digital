@@ -18,7 +18,7 @@ meta nombre="viewport" content="ancho=ancho del dispositivo, escala inicial=1.0"
 título de la página web
 enlaces a la hoja de estilo y fuentes externas
 Incluye un contenedor para agrupar y esta compuesto por
- Contenedor Principal: Utiliza una <div> con la clase container que  contiene todo el contenido de la interfaz.
+ Contenedor Principal: Utiliza un <div> con la clase container que  contiene todo el contenido de la interfaz.
 box: un <div> dentro de la clase box el cual alberga span con los elementos del reloj.
 
 CSS
