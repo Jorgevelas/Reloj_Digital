@@ -1,26 +1,22 @@
-/* Establece valores predeterminados globales para todos los elementos */
+
 * {
-  margin: 0; /* Elimina los márgenes predeterminados de todos los elementos */
-  padding: 0; /* Elimina el relleno predeterminado de todos los elementos */
-  font-family: "Poppins", sans-serif; /* Define la familia de fuentes para todos los elementos */
-  box-sizing: border-box; /* Asegura que el ancho y alto de los elementos incluyan el padding y el borde */
-}
+  margin: 0; 
+  padding: 0; 
+  font-family: "Poppins", sans-serif; 
+  box-sizing: border-box; 
 
-/* Estilos para el elemento body */
 body {
-  background: url('rose.png') no-repeat center center/cover; /* Establece un fondo de imagen para el cuerpo de la página */
+  background: url('rose.png') no-repeat center center/cover; 
 }
 
-/* Estilos para el contenedor principal */
 .container {
-  width: 100%; /* Hace que el contenedor ocupe el ancho total de la ventana */
-  min-height: 100vh; /* Mantiene una altura mínima igual a la altura de la ventana */
-  display: flex; /* Usa Flexbox para el layout */
-  align-items: center; /* Centra verticalmente los hijos */
-  justify-content: center; /* Centra horizontalmente los hijos */
-  position: relative; /* Posiciona absolutamente a sus hijos en relación a sí mismo */
-  background: linear-gradient(to right, transparent, transparent); /* Aplica un gradiente lineal como fondo */
-}
+  width: 100%; 
+  min-height: 100vh; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  position: relative; 
+  background: linear-gradient(to right, transparent, transparent); 
 
 /* Estilos para la caja interna que contiene el reloj */
 .box {
@@ -88,3 +84,4 @@ body {
       width: 40px; /* Ajusta el ancho de los elementos del reloj */
   }
 }
+
